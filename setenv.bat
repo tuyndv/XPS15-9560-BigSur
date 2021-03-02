@@ -1,0 +1,15 @@
+set SNUM=D3HWVF2
+set PRODUCT=XPS_15_9560
+set MAKE=Dell Inc.
+set MODEL=XPS 15 9560
+set MAC=00-24-9B-1B-5B-92
+set LINEOFBUS=NOTEBOOK
+set TRACKINGOBJECTID=672017143
+set DeployRoot=\\eg1prdisicls.delltn.genco.com\SDFactory
+set Win8DeployRoot=\\eg1prdisicls.delltn.genco.com\SD1Factory
+set TESTSERVER=eg1prdisicls.delltn.genco.com
+set VLAN=215
+set UserID=tsguser
+set UserDomain=eg1isicls
+set UserPassword=T$gus3r
+set LEVEL=FACTORY
